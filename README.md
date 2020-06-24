@@ -1,5 +1,5 @@
 # Food
-美食分享系统
+美食分享系统（Spring、SpringMVC、Spring Data JPA）
 
 ![Image text](https://github.com/be-smiling/Food/blob/master/README_IMG/login.png)
 
